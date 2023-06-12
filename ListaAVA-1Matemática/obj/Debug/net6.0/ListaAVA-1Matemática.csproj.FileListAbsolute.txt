@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\bin\Debug\net6.0\ListaAVA-1Matemática.exe
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\bin\Debug\net6.0\ListaAVA-1Matemática.deps.json
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\bin\Debug\net6.0\ListaAVA-1Matemática.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\bin\Debug\net6.0\ListaAVA-1Matemática.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\bin\Debug\net6.0\ListaAVA-1Matemática.pdb
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\refint\ListaAVA-1Matemática.dll
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.pdb
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ListaAVA-1Matemática.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Documentos\IFRO\2º ANO\POO\ListaAVA-1Matemática\ListaAVA-1Matemática\obj\Debug\net6.0\ref\ListaAVA-1Matemática.dll
